@@ -1,11 +1,1 @@
- Volume in drive C is Windows7_OS
- Volume Serial Number is 6AFE-76B9
-
- Directory of C:\Test2
-
-07/21/2015  11:04 PM    <DIR>          .
-07/21/2015  11:04 PM    <DIR>          ..
-07/21/2015  11:04 PM                 0 directory.txt
-07/21/2015  11:04 PM    <DIR>          Test
-               1 File(s)              0 bytes
-               3 Dir(s)  417,425,252,352 bytes free
+ Totally Different
