@@ -5,4 +5,9 @@ OOOOOOOOOOOOOOOOOOOOO
 UUUUU
 YYYY
 
+<<<<<<< HEAD
 IIIIII
+=======
+
+WQWQWQWWWQWQWQW
+>>>>>>> refs/remotes/origin/master
